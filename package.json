@@ -1,0 +1,23 @@
+{
+  "name": "protractorjs",
+  "version": "1.0.0",
+  "description": "Repository to implement Protractor with WebdriverJS ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandax/ProtractorJS.git"
+  },
+  "author": "Luis Banda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bandax/ProtractorJS/issues"
+  },
+  "homepage": "https://github.com/bandax/ProtractorJS#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
